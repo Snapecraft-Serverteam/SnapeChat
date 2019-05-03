@@ -1,0 +1,4 @@
+name: SnapeChat
+version: @version@
+main: net.snapecraft.snapechat.SnapeChat
+description: A simple party plugin for BungeeCord
